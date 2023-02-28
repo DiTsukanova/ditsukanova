@@ -36,3 +36,7 @@ Frontend-разработке я начала обучаться в 21 году 
    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp
    <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" title="nodejs" alt="nodejs" width="40" height="40"/>&nbsp
 </div>
+
+### 💻 Codewars:
+
+![codewars](https://www.codewars.com/users/DiTsukanova/badges/large)
