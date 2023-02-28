@@ -12,12 +12,6 @@ Frontend-разработке я начала обучаться в 21 году 
  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:dtsukanova5@gmail.com) 
  [![Telegram Badge](https://img.shields.io/badge/-DiTsukanova-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/DiTsukanova)
 
-### 🤝 Социальные сети:
-
-    <a href="#" target="_blank">
-      <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
-    </a>
-    
 ### 💻 Технологии:
 
 <div>
